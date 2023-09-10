@@ -1,0 +1,38 @@
+.main-container{
+   background-color: rgb(230, 242, 247);
+
+ 
+ 
+  
+}
+.div-card{
+   width: 80%;
+   /* background-color: grey; */
+   margin: 0 auto;
+   display: flex;
+}
+.second-card-div1{
+   /* background-color: grey; */
+   width: 90%;
+   margin: 0 auto;
+}
+.second-card-div2{
+  
+   width: 90%;
+   margin: 0 auto;
+}
+.payment-icon-para{
+   text-align: center;
+   
+}
+.paid-para{
+   color: blue;
+}
+.payment-logo-icon{
+   font-size:150px;
+   color: rgb(123, 123, 202);
+}
+.set-up-button{
+   float: right;
+   border-radius: 20px
+}

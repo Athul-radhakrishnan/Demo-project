@@ -1,0 +1,12 @@
+.side-bar-button{
+ width: 80%;
+ color: black;
+
+}
+.inside-btn{
+    background-color: grey;
+    border-radius: 20px;
+}
+.btn-para-center{
+    text-align: center;
+}

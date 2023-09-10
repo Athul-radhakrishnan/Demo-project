@@ -1,0 +1,63 @@
+.dash-div1{
+    background-color: rgb(216, 216, 214);
+    height: 430px;
+    width: 80%;
+    margin: 0 auto;
+    border-radius: 8px;
+}
+.dash-div2{
+    border-bottom: 1px solid black;
+    width: 90%;
+    margin: 0 auto;
+    height: 430px;
+}
+.bank-icon-para{
+   
+    text-align: center;
+   
+}
+.bank-icon{
+    margin-top: 30px;
+    font-size: 100px;
+
+}
+.bank-icon-h1{
+    text-align: center;
+    margin-top: 20px;
+}
+.bank-icon-h2{
+    text-align: center;
+    margin-top: 15px;
+    
+}
+
+.acc-btn-para{
+    text-align: center;
+
+}
+.acc-btn{
+    border-radius:30px ;
+   
+}
+
+
+.cash-flow-sub-div{
+    display: flex;
+    width: 100%;
+}
+.cash-flow-para2{
+    width: 30%;
+  text-align: right;
+  color: blue;
+    font-weight: 600;
+}
+.cash-flow-sub-div3{
+    display: flex;
+    width: 100%;
+}
+.cash-flow-para3{
+    text-align: right;
+    width: 42%;
+    color: blue;
+    font-weight: 600;
+}
