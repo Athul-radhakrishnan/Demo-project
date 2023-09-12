@@ -1,5 +1,5 @@
 .dash-div1{
-    background-color: rgb(216, 216, 214);
+    background-color: rgb(240, 240, 240);
     height: 430px;
     width: 80%;
     margin: 0 auto;
@@ -19,6 +19,7 @@
 .bank-icon{
     margin-top: 30px;
     font-size: 100px;
+    color: rgb(58, 133, 151);
 
 }
 .bank-icon-h1{
@@ -40,7 +41,31 @@
    
 }
 
+.Dash-div2{
+   /* margin-top: 80px; */
+    width: 80%;
+    margin: 0 auto;
 
+   
+}
+.Dash-things-heading{
+    color: blue;
+}
+.Dash-para-view{
+    margin-top: 60px;
+    font-weight: 600;
+    color: blue;
+}
+.Dash-para-view1{
+    margin-top: 40px;
+    font-weight: 600;
+    color: blue;
+}
+
+
+
+
+/* 
 .cash-flow-sub-div{
     display: flex;
     width: 100%;
@@ -60,4 +85,4 @@
     width: 42%;
     color: blue;
     font-weight: 600;
-}
+} */

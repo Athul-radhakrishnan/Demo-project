@@ -1,0 +1,30 @@
+.payable_header{
+    margin-top: 100px;
+}
+.payable_header2{
+    margin-top: 145px;
+    
+}
+.table-first{
+    width: 98%;
+    margin: 0 auto;
+    
+}
+
+.first-table-th{
+    text-align: left;
+    border-bottom: 1px solid black;
+
+}
+.first-table-td{
+    border-bottom: 1px solid black;
+
+}
+.table-first th,td{
+   height: 40px;
+    border-bottom: 1px solid black;
+}
+.coming-due{
+    color: blue;
+    font-weight: 600;
+}

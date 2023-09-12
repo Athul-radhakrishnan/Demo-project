@@ -24,11 +24,14 @@ function Dashboard() {
             <p className='acc-btn-para'><Button style={{borderRadius:"20px", fontSize:"10px"}} className='acc-btn' variant="outlined">Connetct my account</Button></p>
            </div>
         </Grid>
-        <Grid item sm={8} xs={12}>
+        <Grid item sm={8} xs={12} style={{borderBottom:"1px solid black"}}>
+      
         <Grid container spacing={0}>
-                <Grid item sm={7}  xs={12} >
-                  <div className='profite-div2'>
-                    <h3>Profite And Loss</h3>
+       
+                <Grid item sm={7}  xs={12} style={{marginTop:"60px"}} >
+                
+                  <div className='Dash-div2'>
+                    <h3>Cash Flow</h3>
                     <p>Income and expenses only (includes unpaid invoices and bills)</p>
                     <p><RxBox style={{backgroundColor:"greenyellow"}}/>Income  <RxBox style={{backgroundColor:"grey"}} /> Expense</p>
                    
@@ -36,9 +39,10 @@ function Dashboard() {
                   </div>
                   </Grid>
                   <Grid item sm={5}  xs={12}  >
-                  <div className='profite-div2'>
-                  <p className='profite-para-view'>View Report</p>
-                  <p className='profite-para-view1'>Last 24 Months</p>
+                 
+                  <div className='Dash-div2'>
+                  <p className='Dash-para-view'>View Report</p>
+                  <p className='Dash-para-view1'>Last 24 Months</p>
                    
   
                   </div>

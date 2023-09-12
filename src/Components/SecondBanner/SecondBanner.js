@@ -13,8 +13,8 @@ import Button from '@mui/material/Button';
 function SecondBanner() {
   return (
     <>
-    <div>
-        <Grid container spacing={0} className='main-container' >
+    <div className='main-container'>
+        <Grid container spacing={0}  >
          
         <Grid item  sm={4} xs={12} >
              <div className='second-card-div1'>

@@ -1,7 +1,8 @@
 .main-container{
    background-color: rgb(230, 242, 247);
 
- 
+ width: 93%;
+ margin: 0 auto;
  
   
 }
@@ -30,7 +31,7 @@
 }
 .payment-logo-icon{
    font-size:150px;
-   color: rgb(123, 123, 202);
+   color: rgb(14, 173, 212);
 }
 .set-up-button{
    float: right;

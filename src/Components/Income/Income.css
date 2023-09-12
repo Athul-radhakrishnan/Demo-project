@@ -1,0 +1,21 @@
+.income-main-div{
+    margin-top: 80px;
+
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  th, td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+    font-weight: 600;
+  }
+
+  .td-amount{
+    font-weight: 600;
+    color: blue;
+  }

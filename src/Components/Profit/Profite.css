@@ -3,13 +3,18 @@
     margin: 0 auto;
     width: 80%;
 }
+/* .profite-div1{
+    margin-top: 50px;
+} */
 .profite-div2{
-    margin: 0 auto;
+    margin-top: 80px;
     width: 80%;
+   margin: 0 auto;
    
 }
 .profite-things-heading{
     color: blue;
+    
 }
 .profite-para-view{
     margin-top: 60px;

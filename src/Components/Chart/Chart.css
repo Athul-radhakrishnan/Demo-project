@@ -1,0 +1,39 @@
+.second-pie-grid{
+    margin-top: 100px;
+}
+.parent_div {
+  
+    background: conic-gradient(
+        rgb(233, 138, 138) 0 28.9%,
+        rgb(176, 221, 217) 28.9% 52%,
+        rgb(179, 247, 172) 52% 63.6% ,
+        rgb(193, 130, 209)63.6%  75.25%,
+        rgb(243, 229, 165) 75.25% 85.6%,
+        rgb(231, 230, 235) 14.5% 100% 
+    );
+    height:300px;
+    width:300px;
+    position: relative;
+    margin: 0 auto;
+    border-radius: 50%;
+}
+.child_div {
+    background:white;
+    height: 120px;
+    width: 120px;
+    border: 2 px solid white;
+    position: absolute;
+    top: 50% ;
+    left: 50% ;
+    border-radius: 50%;
+    transform: translate(-50% , -50% );
+}
+.expense-head{
+    text-align: center;
+    font-weight: 600;
+    margin-top: 60px;
+}
+.expense-span{
+    color: blue;
+    font-weight: 600;
+}

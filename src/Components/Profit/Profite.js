@@ -22,7 +22,7 @@ function Profite() {
                 </div>
 
             </Grid>
-            <Grid item sm={8}  xs={12}>
+            <Grid item sm={8}  xs={12} style={{borderBottom:"1px solid black"}}>
                 <Grid container spacing={0}>
                 <Grid item sm={7}  xs={12} >
                   <div className='profite-div2'>
@@ -42,6 +42,7 @@ function Profite() {
                   </div>
                   </Grid>
                   </Grid>
+                  
             </Grid>
         </Grid>
       </Box>
